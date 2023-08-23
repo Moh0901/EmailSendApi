@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolicyManagementAPI", "PolicyManagementAPI\PolicyManagementAPI.csproj", "{54208B58-7B17-4046-A1DE-926249E0DBFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54208B58-7B17-4046-A1DE-926249E0DBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54208B58-7B17-4046-A1DE-926249E0DBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54208B58-7B17-4046-A1DE-926249E0DBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54208B58-7B17-4046-A1DE-926249E0DBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C809EB-DAF8-4041-B0B3-0EBF6148F359}
+	EndGlobalSection
+EndGlobal
